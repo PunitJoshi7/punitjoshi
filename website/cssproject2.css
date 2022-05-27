@@ -1,0 +1,24 @@
+div.content{
+    /* background-color: cornflowerblue; */
+    /* margin-bottom: 9px; */
+    height: 200px;
+    width: 200px;
+    border: 5px solid #000000;
+    float:right;
+    margin: 80px;
+    float: down ;
+    padding: 13px;
+
+    
+}
+
+
+div#first{
+    background-color:brown ;
+}
+div#second{
+    background-color:blueviolet ;
+}
+div#third{
+    background-color:blanchedalmond;
+}
